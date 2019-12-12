@@ -3,5 +3,6 @@ matplotlib
 pandas
 pymongo
 ipywidgets
+ipycanvas
 RISE
 
